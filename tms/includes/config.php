@@ -1,6 +1,6 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
+define('DB_HOST','mysql');
 define('DB_USER','root');
 define('DB_PASS','UserRoot!');
 define('DB_NAME','tms');
