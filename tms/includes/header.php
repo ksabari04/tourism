@@ -2,7 +2,7 @@
 {?>
 <div class="top-header">
 	<div class="container">
-		<ul class="tp-hd-lft wow fadeInLeft animated" data-wow-delay=".5s">
+		<ul class="tp-hd-lft wow fadeInLeft animated" data-wowTdelay=".5s">
 			<li class="hm"><a href="index.html"><i class="fa fa-home"></i></a></li>
 			<li class="prnt"><a href="profile.php">My Profile</a></li>
 				<li class="prnt"><a href="change-password.php">Change Password</a></li>
@@ -37,7 +37,7 @@
 <div class="header">
 	<div class="container">
 		<div class="logo wow fadeInDown animated" data-wow-delay=".5s">
-			<a href="index.php">Sabari Tourism <span>Management System</span></a>	
+			<a href="index.php">Tourism <span>Management System</span></a>	
 		</div>
 	
 		<div class="lock fadeInDown animated" data-wow-delay=".5s"> 
